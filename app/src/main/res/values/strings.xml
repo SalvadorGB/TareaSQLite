@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carrito de compra</string>
+    <string name="action_settings">Settings</string>
+    <string name="act_codproducto">Codigo del producto</string>
+    <string name="act_desproducto">Descripcion del producto</string>
+    <string name="act_cantidad">Cantidad</string>
+    <string name="act_precioreal">Precio real</string>
+    <string name="act_totalreal">Total real</string>
+    <string name="btn_save">Guardar</string>
+    <string name="act_ingresar">Ingresar los siguientes datos</string>
+
+</resources>

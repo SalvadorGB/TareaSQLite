@@ -1,0 +1,5 @@
+<root>
+    <item name='android.content.ContentValues void put(java.lang.String, java.lang.Integer)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
